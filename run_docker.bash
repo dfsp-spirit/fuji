@@ -1,0 +1,1 @@
+docker run -d -p 1071:1071 ghcr.io/pangaea-data-publisher/fuji
